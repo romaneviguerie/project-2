@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Condensed");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  font-family:'Condensed', serif;
+  font-size: 25px;
+  font-weight: lighter;
+}
+
+h1 {
+	font family: 'Condensed', serif;
+	font-size: 60px;
+	font-weight: bolder;
+} 
+
+h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}

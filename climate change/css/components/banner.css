@@ -1,0 +1,17 @@
+.banner {
+  background-image: url(../../images/woods.avif);
+  color: white;
+  padding: 5px 0px;
+  background-size: cover;
+ 
+}
+
+.banner h1 {
+	front-size: 50px;
+}
+
+.banner h2 {
+	front-size: 100px;
+	front-weight: lighter;
+	margin-bottom: 80px;
+}
